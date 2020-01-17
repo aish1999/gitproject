@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="simpile_table" language="en" table="x_354884_sample_simpile_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>simpile_table</label>
+            <language>en</language>
+            <name>x_354884_sample_simpile_table</name>
+            <plural>simpile_tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-17 05:16:04</sys_created_on>
+            <sys_id>12938f0fdbd6c05065688e4748961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>simpile_table</sys_name>
+            <sys_package display_value="sample" source="x_354884_sample">7f25bf22dbc2041065688e47489619eb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sample">7f25bf22dbc2041065688e47489619eb</sys_scope>
+            <sys_update_name>sys_documentation_x_354884_sample_simpile_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-17 05:16:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

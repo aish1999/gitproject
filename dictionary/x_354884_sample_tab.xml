@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="tab" max_length="40" name="x_354884_sample_tab" type="collection">
+        <element label="one" max_length="40" name="one" type="string"/>
+    </element>
+</database>
